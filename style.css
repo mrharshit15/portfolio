@@ -728,7 +728,6 @@ main{
     #portfolio .port-row {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 15px;
-        height:250px ;
     }
 }
 
